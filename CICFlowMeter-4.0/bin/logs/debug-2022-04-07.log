@@ -1,4 +1,0 @@
-2022-04-07 17:02:11 DEBUG cic.cs.unb.ca.flow.ui.FlowOfflinePane    offline select input D:\870-DDoS\traffic.pcap
-2022-04-07 17:02:14 DEBUG cic.cs.unb.ca.flow.ui.FlowOfflinePane    offline select output D:\870-DDoS
-2022-04-07 17:02:16 DEBUG cic.cs.unb.ca.jnetpcap.worker.ReadPcapFileWorker    Working on... D:\870-DDoS\traffic.pcap
-2022-04-07 17:02:16 DEBUG cic.cs.unb.ca.jnetpcap.PacketReader    Read All packets on D:\870-DDoS\traffic.pcap
