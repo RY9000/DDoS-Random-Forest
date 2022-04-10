@@ -109,7 +109,7 @@ def handelPacket(p):
 
     index = treeview.insert('', 'end', values=addTreeData)
     treeview.see(index)
-    # root.update()
+    root.update()
     wrpcap('traffic.pcap', p, append=True)
 
 
