@@ -166,11 +166,7 @@ def onStart():
 
 
 def about():
-    info_string = 'DDoS Detection V1.0 ' + \
-                  '\nJianhua Li' + \
-                  '\nShuo Shi' + \
-                  '\nXiaolong Yu' + \
-                  '\nSupervised by Habib Louafi'
+    info_string = 'DDoS Detection V1.0 '
     tkinter.messagebox.showinfo(title='About', message=info_string)
 
 
